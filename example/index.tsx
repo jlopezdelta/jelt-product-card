@@ -9,13 +9,6 @@ const product1 = {
   img     : "./coffee-mug.png"
 }
 
-const product2 = {
-  id      : "2",
-  title   : "Coffee Mug - Meme",
-  img     : "./coffee-mug2 (1).png"
-}
-
-
 const App = () => {
   return (
     <ProductCard 
